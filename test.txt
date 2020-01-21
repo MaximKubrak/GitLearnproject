@@ -1,4 +1,2 @@
 hello there
-I will be succesful
-i am a man
-i am developer
+my name is mr.robot
