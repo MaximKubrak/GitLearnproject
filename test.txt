@@ -1,3 +1,4 @@
 hello there
-^x
 I will be succesful
+i am a man
+i am developer
